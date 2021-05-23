@@ -44,22 +44,6 @@ toxicity and gender (of the authors/sources), then there is gender bias present 
     </item>
     
     <item>
-      <title>Predicting Different Types of Subtle Toxicity in Unhealthy Online Conversations</title>
-      <link>https://shlokgilda.github.io/project/unhealthy-conversations/</link>
-      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://shlokgilda.github.io/project/unhealthy-conversations/</guid>
-      <description>&lt;p&gt;We investigated the use of machine learning models for the classification of unhealthy online conversations
-containing one or more forms of subtler abuse, such as hostility, sarcasm, and generalization. We leveraged a public
-dataset of 44K online comments containing healthy and unhealthy comments labeled with seven forms of subtle toxicity.
-We were able to distinguish between these comments with a top micro F1-score, macro F1-score, and ROC-AUC of 88.76%,
-67.98%, and 0.71, respectively. Hostile comments were easier to detect than other types of unhealthy comments.
-We also conducted a sentiment analysis which revealed that most types of unhealthy comments were associated with a
-slight negative sentiment, with hostile comments being the most negative ones. We have a submitted a research paper on
-this work at the 5th Workshop on Online Abuse and Harms (WOAH).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Investigation of Covid-19 related tweets for misinformation and engagement</title>
       <link>https://shlokgilda.github.io/project/covid-tweets/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
