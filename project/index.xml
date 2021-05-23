@@ -5,7 +5,7 @@
     <link>https://shlokgilda.github.io/project/</link>
       <atom:link href="https://shlokgilda.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Shlok Gilda</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Shlok Gilda</copyright><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shlokgilda.github.io/media/icon_hu78d405b8dcc1dde0d74e011fa0cd641f_27924_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -13,15 +13,45 @@
     </image>
     
     <item>
-      <title>Example Project</title>
-      <link>https://shlokgilda.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://shlokgilda.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Analysis of Gender Bias and Discrimination in News Media</title>
+      <link>https://shlokgilda.github.io/project/gender-bias/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shlokgilda.github.io/project/gender-bias/</guid>
+      <description>&lt;p&gt;We aim to analyze how the sentiment and toxicity of news articles vary based on the gender of authors, quoted sources,
+etc. We hypothesize that if there is a statistically significant correlation between negative sentiment and/or high
+toxicity and gender (of the authors/sources), then there is gender bias present in an article.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Investigation of Covid-19 related tweets for misinformation and engagement</title>
+      <link>https://shlokgilda.github.io/project/covid-tweets/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://shlokgilda.github.io/project/covid-tweets/</guid>
+      <description>&lt;p&gt;We examine nearly 505K COVID-19-related tweets from the initial months of the pandemic to understand misinformation as a
+function of bot-behavior and engagement. Using a correlation-based feature selection method, we selected the 11 most
+relevant feature subsets among over 170 features to distinguish misinformation from facts, and to predict highly
+engaging misinformation tweets about COVID-19. We found that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;real users tweet both facts and misinformation, while bots tweet proportionally more misinformation.&lt;/li&gt;
+&lt;li&gt;misinformation tweets were less engaging than facts.&lt;/li&gt;
+&lt;li&gt;the textual content of a tweet was the most important to distinguish fact from misinformation.&lt;/li&gt;
+&lt;li&gt;user account metadata and human-like activity were most important to predict high engagement in factual and
+misinformation tweets.&lt;/li&gt;
+&lt;li&gt;sentiment features were not relevant.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Investigation of Covid-19 related Android apps for malicious behavior and users’ engagement</title>
+      <link>https://shlokgilda.github.io/project/covid-apps/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://shlokgilda.github.io/project/covid-apps/</guid>
+      <description>&lt;p&gt;We examine nearly 300K COVID-19-related Android applications to analyze the prevalence of malware among these
+applications. We aim to find features (behavioral, sociolinguistic, etc.) which are more relevant to distinguish malware
+infected applications from benign applications and features which are more relevant to distinguish highly engaging
+applications from low engaging applications.&lt;/p&gt;
 </description>
     </item>
     
