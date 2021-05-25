@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Shlok Gilda</title>
+    <link>https://shlokgilda.github.io/publication-type/0/</link>
+      <atom:link href="https://shlokgilda.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Shlok Gilda</copyright><lastBuildDate>Mon, 26 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shlokgilda.github.io/media/icon_hu78d405b8dcc1dde0d74e011fa0cd641f_27924_512x512_fill_lanczos_center_2.png</url>
+      <title>0</title>
+      <link>https://shlokgilda.github.io/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Predicting Different Types of Subtle Toxicity in Unhealthy Online Conversations</title>
+      <link>https://shlokgilda.github.io/publication/paper-unhealthy-conversations/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shlokgilda.github.io/publication/paper-unhealthy-conversations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
